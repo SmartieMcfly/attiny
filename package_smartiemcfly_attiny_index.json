@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "attiny",
-      "maintainer": "David A. Mellis",
+      "maintainer": "Sean Collier",
       "websiteURL": "https://github.com/smartiemcfly/attiny",
       "email": "",
       "help": {
